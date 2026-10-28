@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Matheus Putrique! 👋
 
-**Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Desenvolvedor Back-End & Mobile**  
+**Estudante de Engenharia de Software & Análise e Desenvolvimento de Sistemas (ADS) | Desenvolvedor Back-End & Mobile**  
 *Focado em Programação Orientada a Objetos (POO) com Java e arquitetura de sistemas*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Matheus--Putrique-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-Putrique)
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** apaixonado por transformar regras de negócio reais em código limpo, modular e bem estruturado. 
+Sou estudante de **Engenharia de Software** e de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por transformar regras de negócio reais em código limpo, modular e bem estruturado. 
 
 Meu foco principal está no ecossistema **Java** e nos pilares da **Programação Orientada a Objetos (POO)** — aplicando **Encapsulamento, Herança, Polimorfismo, Abstração, Interfaces, Composição e Enums** na construção de sistemas robustos. Também desenvolvo aplicações mobile nativas para Android utilizando **Kotlin** e **Jetpack Compose**, além de explorar **C#**, **PHP** e bancos de dados relacionais (**MySQL**).
 
